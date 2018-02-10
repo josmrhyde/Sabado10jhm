@@ -1,0 +1,25 @@
+ C:\Program Files\Git
+
+https://github.com/josmrhyde/Sabado10jhm.git
+
+git config --global user.name "josmrhyde"
+
+git config --global user.name "ingjeshc@hotmal.com"
+
+git init
+
+git add nombre del archivo proyecto
+
+
+git remote add origin (url)
+
+git push -u origin master "Primer version"
+
+
+
+
+git add nombre archivos
+git commit -m "master"
+git push origin master
+
+
